@@ -13,6 +13,5 @@ A dashboard interface built with **HTML5** and **CSS3**. This project focuses on
 * **CSS3** 
 * **Bootstrap 5:** Used for the Grid system and responsive utility classes.
 
-## Live Demo
-(https://deemaa-hub.github.io/AquaDash-UI/)
+### [ Live Demo](https://deemaa-hub.github.io/AquaDash-UI/)
 
